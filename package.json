@@ -1,0 +1,28 @@
+{
+  "name": "hello_node",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "http_test.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fishingboy/hello_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fishingboy/hello_node/issues"
+  },
+  "homepage": "https://github.com/fishingboy/hello_node#readme"
+}
