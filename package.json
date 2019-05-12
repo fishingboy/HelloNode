@@ -2,7 +2,7 @@
   "name": "hello_node",
   "version": "1.0.0",
   "description": "hello",
-  "main": "http_test.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
